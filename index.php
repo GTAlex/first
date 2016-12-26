@@ -6,6 +6,6 @@
  * Time: 14:31
  */
 
-echo "Hello World!!";
+echo "Hi bro!";
 echo "<br>";
 
